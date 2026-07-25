@@ -1,1 +1,22 @@
-asdwdasdwasdw
+📖 Usage Guide
+Option 1 (Generate Key):
+
+Run this first before encrypting or decrypting any files[cite: 1].
+
+It creates a secret.key or and other named file in your root folder[cite: 1].
+
+Option 2 (Encrypt File):
+
+Enter the name or path of the target file (e.g., document.txt or photos/image.png).
+
+The file contents will be converted to encrypted ciphertext[cite: 1].
+
+Option 3 (Decrypt File):
+
+Enter the name or path of the encrypted file.
+
+Using secret.key, the file will be restored to its original plaintext format[cite: 1].
+   
+
+YOU CAN USE THIS FILE FOR TEST RUN 
+AND UNDER THIS IS YOUR KEY FILE.
